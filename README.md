@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 
 - [About the Project](#-about-the-project)
 - [Features](#-features)
@@ -23,13 +23,13 @@
 
 ---
 
-## 🧠 About the Project
+## About the Project
 
 The **AI Attendance System** is a smart, contactless attendance solution built for classrooms, offices, or any organization. It leverages real-time **face recognition** through a **phone camera** to automatically detect and mark attendance — eliminating the need for manual roll calls or ID cards.
 
 ---
 
-## ✨ Features
+## Features
 
 - 📸 **Real-time Face Recognition** — Detects and identifies faces instantly
 - 📱 **Phone Camera Support** — Use your phone as a wireless camera
@@ -52,7 +52,7 @@ The **AI Attendance System** is a smart, contactless attendance solution built f
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -64,7 +64,7 @@ Make sure you have the following installed:
 
 ---
 
-## 📦 Installation
+## Installation
 
 **1. Clone the repository**
 ```bash
@@ -121,14 +121,6 @@ AI-Attendance-System/
 ## 📸 Screenshots
 
 > Screenshots and demo coming soon...
-
----
-
-## 👨‍💻 Contributors
-
-| Name | Role |
-|---|---|
-| **Jay Raval** | Developer |
 
 ---
 
