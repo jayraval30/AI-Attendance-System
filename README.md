@@ -48,7 +48,6 @@ The **AI Attendance System** is a smart, contactless attendance solution built f
 | OpenCV | Face detection & recognition |
 | face_recognition | AI face matching library |
 | Streamlit | Web-based UI |
-| Twilio | SMS / notification support |
 | Phone Camera (IP Webcam) | Remote camera streaming |
 
 ---
@@ -139,4 +138,3 @@ This project is licensed under the **MIT License** — feel free to use and modi
 
 ---
 
-<p align="center">Made with ❤️ by Jay Raval</p>
