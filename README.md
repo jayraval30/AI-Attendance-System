@@ -1,4 +1,4 @@
-# 🎓 AI Attendance System
+#  AI Attendance System
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Face%20Recognition-green?style=for-the-badge&logo=opencv)
 ![InsightFace](https://img.shields.io/badge/InsightFace-buffalo__sc-orange?style=for-the-badge)
@@ -22,12 +22,12 @@
 The **AI Attendance System** is a smart, contactless attendance solution built for classrooms, offices, or any organization. It leverages real-time **face recognition** through a **phone camera** to automatically detect and mark attendance — eliminating the need for manual roll calls or ID cards.
 ---
 ## Features
-- 📸 **Real-time Face Recognition** — Detects and identifies faces instantly
-- 📱 **Phone Camera Support** — Use your phone as a wireless camera
-- 🧾 **Automatic Attendance Logging** — Records attendance with timestamp
-- 👤 **Multi-face Detection** — Recognizes multiple people simultaneously
-- 🔒 **Secure & Contactless** — No physical interaction required
-- 📊 **Attendance Records** — Stores data for future reference
+-  **Real-time Face Recognition** — Detects and identifies faces instantly
+-  **Phone Camera Support** — Use your phone as a wireless camera
+-  **Automatic Attendance Logging** — Records attendance with timestamp
+-  **Multi-face Detection** — Recognizes multiple people simultaneously
+-  **Secure & Contactless** — No physical interaction required
+-  **Attendance Records** — Stores data for future reference
 ---
 ## 🛠 Tech Stack
 | Technology | Purpose |
@@ -64,7 +64,7 @@ pip install -r requirements.txt
 streamlit run Home.py
 ```
 ---
-## 📱 Usage
+##  Usage
 ### Using Phone Camera
 1. Install **IP Webcam** app on your Android phone
 2. Start the server in the app
@@ -76,7 +76,7 @@ streamlit run Home.py
 3. Start attendance — the system will auto-detect and mark present students/employees
 4. View and export the attendance log
 ---
-## 📁 Project Structure
+##  Project Structure
 ```
 AI-Attendance-System/
 │
@@ -96,9 +96,9 @@ AI-Attendance-System/
 └── README.md                # Project documentation
 ```
 ---
-## 📸 Screenshots
+##  Screenshots
 > Screenshots and demo coming soon...
 ---
-## 📄 License
+##  License
 This project is licensed under the **MIT License** — feel free to use and modify it.
 ---
