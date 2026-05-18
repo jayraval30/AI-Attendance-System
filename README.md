@@ -67,9 +67,9 @@ streamlit run Home.py
 ##  Usage
 ### Using Phone Camera
 1. Install **IP Webcam** app on your Android phone
-2. Start the server in the app
+2. Start the server in the app.
 3. Copy the IP address shown (e.g., `http://192.168.x.x:8080`)
-4. Paste it in the app when prompted
+4. Paste it in the app when prompted.
 ### Taking Attendance
 1. Launch the app with `streamlit run Home.py`
 2. Register faces by uploading photos or using live camera.
