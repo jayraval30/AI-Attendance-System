@@ -100,5 +100,5 @@ AI-Attendance-System/
 > Screenshots and demo coming soon...
 ---
 ##  License
-This project is licensed under the **MIT License** — feel free to use and modify it.
+This project is licensed under the **MIT License** — feel free to use and modify it
 ---
