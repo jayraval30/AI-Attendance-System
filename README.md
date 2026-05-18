@@ -72,8 +72,8 @@ streamlit run Home.py
 4. Paste it in the app when prompted
 ### Taking Attendance
 1. Launch the app with `streamlit run Home.py`
-2. Register faces by uploading photos or using live camera
-3. Start attendance — the system will auto-detect and mark present students/employees
+2. Register faces by uploading photos or using live camera.
+3. Start attendance — the system will auto-detect and mark present students/employees.
 4. View and export the attendance log
 ---
 ##  Project Structure
