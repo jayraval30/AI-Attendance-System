@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 > An intelligent attendance management system that uses **AI-powered face recognition** and **phone camera integration** to automate and simplify attendance tracking.
 ---
-##  Table of Contents
+##  Table of Content
 - [About the Project](#-about-the-project)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
